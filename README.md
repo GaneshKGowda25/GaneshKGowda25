@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3766AB?style=flat&logo=python&logoColor=white)
-
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -32,11 +32,11 @@
 - **Description**: An AI Agent built during a **Product Space AI Hackathon**, capable of tracking competitor updates, collecting market intelligence, and sending automated summaries to product managers.
 - **Tech Stack**: `Python`, `Make.com`, `Lovable`, `AI APIs`
 
-###[**Number Cruncher Toolkit**]
-  A **matrix analysis and manipulation tool** built with **NumPy** for 1D, 2D, and 3D arrays.
-  
-###[**Waste Management System(Prototype)**]
-  A **Bolt IoT-powered waste management system** for handling **dry, wet, and e-waste**, including customer registration and reward automation.
+### **Number Cruncher Toolkit**
+- **Description**: A **matrix analysis and manipulation tool** built with **NumPy** for 1D, 2D, and 3D arrays.
+
+### **Waste Management System (Prototype)**
+- **Description**: A **Bolt IoT-powered waste management system** for handling **dry, wet, and e-waste**, including customer registration and reward automation.
 
 ---
 
