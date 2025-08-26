@@ -32,16 +32,16 @@
 - **Description**: An AI Agent built during a **Product Space AI Hackathon**, capable of tracking competitor updates, collecting market intelligence, and sending automated summaries to product managers.
 - **Tech Stack**: `Python`, `Make.com`, `Lovable`, `AI APIs`
 
-- [**Number Cruncher Toolkit**]
+###[**Number Cruncher Toolkit**]
   A **matrix analysis and manipulation tool** built with **NumPy** for 1D, 2D, and 3D arrays.
   
-- [**Waste Management System(Prototype)**]
+###[**Waste Management System(Prototype)**]
   A **Bolt IoT-powered waste management system** for handling **dry, wet, and e-waste**, including customer registration and reward automation.
 
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ganesh-k-gowda-b33813345
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ganesh-k-gowda-b33813345)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:gkgowda711@gmail.com)
 
 
