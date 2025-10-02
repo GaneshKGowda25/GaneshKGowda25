@@ -32,6 +32,23 @@
 - **Description**: An AI Agent built during a **Product Space AI Hackathon**, capable of tracking competitor updates, collecting market intelligence, and sending automated summaries to product managers.
 - **Tech Stack**: `Python`, `Make.com`, `Lovable`, `AI APIs`
 
+### **Housing Price Prediction (From Scratch)**
+- **Description**: Predicted house prices using **Linear Regression implemented completely from scratch** (no sklearn).  
+- **Highlights**:  
+  - Manual preprocessing (outlier removal, scaling, one-hot encoding)  
+  - Applied **Normal Equation** for regression coefficients  
+  - Built evaluation (MSE, R²) and visualizations (distribution, prediction error)  
+  - Interactive CLI function for new predictions  
+- **Tech Stack**: `Python`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
+
+### **Housing Price Prediction (with Sklearn Pipeline)**
+- **Description**: Built a **linear regression model using sklearn** with preprocessing pipelines.  
+- **Highlights**:  
+  - Used **ColumnTransformer** to handle numerical & categorical features  
+  - Automated **scaling and encoding**  
+  - Evaluated model with MSE, R² and plotted **Predicted vs Actual**  
+- **Tech Stack**: `Python`, `Pandas`, `Scikit-Learn`, `Matplotlib`, `Seaborn`
+
 ### **Salary Prediction (From Scratch)**
 - **Description**: Predicted salaries based on experience using **Linear Regression implemented from scratch** without sklearn.  
 - **Highlights**: Implemented **gradient descent**, visualized results, and evaluated model performance with **MSE & R²**.  
